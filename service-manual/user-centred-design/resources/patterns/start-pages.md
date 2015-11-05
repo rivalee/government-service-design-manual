@@ -13,32 +13,32 @@ breadcrumbs:
     url: /service-manual/user-centred-design/resources/patterns/index.html
 ---
 
-{:.intro}
+Start pages
 
-All digital services that government provides must start (and end) on
-GOV.UK. A start page is one way that this may happen.
+## Introductory text and eligibility
 
-Start pages are written by the mainstream business as usual (BAU) content
-team at GDS. The start page and the content in your service should
-complement each other.
+Tell the user:
 
-Contact the team the [GOV.UK Support form](https://support.production.alphagov.co.uk/new_feature_request/new) to ask for a start page when you're close to
-your beta launch. You should include:
+what the service lets you do
+who can use it
 
-+ what the service is and who it's for
-+ what user needs it addresses
-+ eligibility criteria and restrictions
-+ what documents or information the user will need to use the service
-+ a preview of the service (if available)
-+ other methods of applying eg phone and post
-+ a demo URL (with a username and password if necessary)
-+ when the service is expected to pass its beta assessment
+Keep the call to action clear.
 
-Factor in time it'll take for the content to be written and fact-checked -
-the start page can only be published after both:
+Bear in mind that a lot of people won’t read most of the text on a start page, so design the service with that in mind.
 
-+ the service passes its [beta assessment](https://www.gov.uk/service-manual/phases/beta.html) or self-certification
-+ the service goes live
+Give just enough information to let most users assess whether or not the service will let them do the thing they want to do. Ideally, the name of the service alone would be enough. But you usually need a sentence or two of introductory text as well. Think about SEO when writing the introductory text.
+
+You don’t have to give full eligibility criteria if it’s going to overcomplicate things for the majority of people. It may be better to ‘fail’ edge cases inside the service (especially if you can do so without adding extra questions).
+
+If you still feel like you need to add lots of the detail to the page, there might be a problem with the scope of your service. Can you make it more intuitive by making it serve more edge cases, even if (for example) you have to route some of them to a legacy transaction?
+
+## Telling users what they need
+
+Tell the user about any information or documents they will need in order to use the service.
+
+Provide any information that’s likely to be important when they’re deciding whether to use the service (eg how much it costs).
+
+There’s no need to mention something that most users will know without looking it up (eg their home address).
 
 ---
 
